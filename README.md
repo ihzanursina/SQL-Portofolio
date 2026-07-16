@@ -14,3 +14,7 @@ Selamat datang di repositori portofolio SQL saya yang dibuat menggunakan mySQL. 
 
 ### 3. [Coffee Sales Analysis]
 * **Deskripsi:** Data Cleansing data transaksi vending machine kopi yang berisi metode pembayaran,tipe produk terjual serta tanggal dan jam penjualan.
+
+### 3. [Flight Analysis]
+* **Deskripsi:** Analisis data penerbangan di Amerika untuk melihat kendala pada waktu keberangkatan dan performa penerbangan dari maskapai.
+
