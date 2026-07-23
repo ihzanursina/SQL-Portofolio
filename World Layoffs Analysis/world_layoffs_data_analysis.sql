@@ -366,7 +366,7 @@ from layoffs_staging2
 where percentage_laid_off = 1 and
 stage != 'Uknown'
 group by industry
-order by total_off asc;
+order by total_off desc;
 
 
 
